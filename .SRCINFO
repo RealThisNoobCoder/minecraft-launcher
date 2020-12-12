@@ -1,0 +1,10 @@
+pkgbase = pkgbase
+	pkgdesc = Updated Minecraft Launcher
+	pkgver = 1.10
+	pkgrel = 1
+	url = https://minecraft.net/
+	arch = x86_64
+	license = custom
+
+pkgname = minecraft-launcher-updated
+
